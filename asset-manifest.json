@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/card-carousel/static/css/main.f5734a2f.chunk.css",
+    "main.js": "/card-carousel/static/js/main.c2804456.chunk.js",
+    "main.js.map": "/card-carousel/static/js/main.c2804456.chunk.js.map",
+    "runtime-main.js": "/card-carousel/static/js/runtime-main.6f77a75c.js",
+    "runtime-main.js.map": "/card-carousel/static/js/runtime-main.6f77a75c.js.map",
+    "static/js/2.556a8dfa.chunk.js": "/card-carousel/static/js/2.556a8dfa.chunk.js",
+    "static/js/2.556a8dfa.chunk.js.map": "/card-carousel/static/js/2.556a8dfa.chunk.js.map",
+    "index.html": "/card-carousel/index.html",
+    "precache-manifest.ac00d68efbb0c3c1d36c3ad2e80ae40c.js": "/card-carousel/precache-manifest.ac00d68efbb0c3c1d36c3ad2e80ae40c.js",
+    "service-worker.js": "/card-carousel/service-worker.js",
+    "static/css/main.f5734a2f.chunk.css.map": "/card-carousel/static/css/main.f5734a2f.chunk.css.map",
+    "static/js/2.556a8dfa.chunk.js.LICENSE.txt": "/card-carousel/static/js/2.556a8dfa.chunk.js.LICENSE.txt",
+    "static/media/four-fam.jpg": "/card-carousel/static/media/four-fam.615f3dd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f77a75c.js",
+    "static/js/2.556a8dfa.chunk.js",
+    "static/css/main.f5734a2f.chunk.css",
+    "static/js/main.c2804456.chunk.js"
+  ]
+}
